@@ -2,7 +2,9 @@
  2019年华为云鲲鹏开发者
 
 1-C++ demo
+
 这是xl调通的C++demo，然后只有初步功能，详情见里面得readme，有问题随时可以在群里交流或者这个帖子下回复我。
+
 https://bbs.huaweicloud.com/forum/thread-22065-1-1.html
 
 2019/8/4
@@ -14,7 +16,9 @@ https://bbs.huaweicloud.com/forum/thread-22065-1-1.html
 只对网络通信进行了跨平台的封装，目前win下测试通过了，然后上传后跑分1分，详情见readme
 
 2- golang-demo
+
 由hadrianl大佬提供
+
 https://bbs.huaweicloud.com/forum/thread-22099-1-1.html
 
 
@@ -48,7 +52,7 @@ Window下就能调试！Windows下就能调试！Windows下就能调试！
 那么。。。激(jian)动(yan)人(xue)心(tong)的时候到了！！！
 请下载ython_demo.zip，改成自己名字直接上传，就能直接拿分！得多少分全凭天意
 
-PS：程序里还埋了一处不容易发现的bug，debug出来的和de不出来的程序平均分数会相差5分左右，不过非常好找，用过Python3的人都能找到。
+P S：程序里还埋了一处不容易发现的bug，debug出来的和de不出来的程序平均分数会相差5分左右，不过非常好找，用过Python3的人都能找到。
 ===============
 
 编者再
