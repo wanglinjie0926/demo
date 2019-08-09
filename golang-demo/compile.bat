@@ -1,0 +1,1 @@
+go build -o .\bin\client.exe .\src\main.go .\src\strategy.go
